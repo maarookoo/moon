@@ -1,0 +1,75 @@
+h1 {text-align: center;
+color: rgb(255, 255, 255);
+font-family: serif;
+}
+h2{text-align: center;
+color: rgb(255, 255, 255);
+font-family: serif;
+}
+h3{ 
+    text-align: center;
+    color: rgb(255, 255, 255); 
+}
+ p{
+font-family: serif;
+font-size: 20px;
+color: rgb(185, 184, 184);
+}
+body {
+background-color: rgb(0, 0, 0);
+}
+.mine{
+width: 1500px; height: 680px;
+}
+details {
+color: rgb(185, 184, 184);
+}
+td {
+    height: 70px;
+    text-align: center;
+}
+th,td {
+    border: 1px solid;
+    color: rgb(185, 184, 184);
+}
+th {
+    height: 70px;
+    width: 300px;
+}
+table { 
+    border-spacing: 0;
+}
+ul {
+color: rgb(185, 184, 184) ;
+}
+.гравитационное {
+width: 1000px; 
+}
+.орбита{
+height: 500px; width: 700px; 
+}
+.alfa {
+    margin: 20px 340px;
+    font-family: serif;
+    font-size: 23px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  #wrapper{
+    width:960px;
+    margin:0 auto;
+    text-align:left;
+
+}
+    ::selection {
+     color:black;
+     background: rgb(225, 225, 225);
+}
+a {
+    color:rgb(185, 184, 184);
+    display: block;
+    text-align: center;
+}
